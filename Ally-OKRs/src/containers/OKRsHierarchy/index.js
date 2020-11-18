@@ -15,7 +15,6 @@ const OKRHierarchy = () => {
 				dispatch({ type: FETCHED_OKRS, data: data.data });
 			})
 			.catch(e => {
-				console.log(e);
 				dispatch({ type: FETCHING_OKRS_FAILED, error: e.message });
 			})
 		;
