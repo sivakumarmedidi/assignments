@@ -34,7 +34,7 @@ const OKRHierarchy = () => {
 							        onChange={e => dispatch({type: SELECT_CATEGORY, category: e.currentTarget.value})}>
 								<option value="">None</option>
 								{
-									state.applicableCategoryFilters.map(category => <option value={category}>{category}</option>)
+									state.applicableCategoryFilters.map(category => <option key={category} value={category}>{category}</option>)
 								}
 							</select>
 						</div>
