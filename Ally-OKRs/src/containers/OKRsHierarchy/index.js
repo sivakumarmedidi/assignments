@@ -15,19 +15,20 @@ const OKRHierarchy = () => {
 				dispatch({ type: FETCHED_OKRS, data: data.data });
 			})
 			.catch(e => {
-				dispatch({ type: FETCHING_OKRS_FAILED, error: e.response.data });
+				console.log(e);
+				dispatch({ type: FETCHING_OKRS_FAILED, error: e.message });
 			})
 		;
 	}, [])
 
 	return <div className="container">
 		{
-			state.error ? <div>
-					{state.error}
+			state.error ? <div className="error">
+					Error Occurred: {state.error}
 				</div> :
 				state.isLoadingOKRs ? <span>Loading...</span> :
-					<div>
-						<div className="">
+					<div className="OKRsList">
+						<div className="category-filter">
 							<label>Select Category</label>
 							<select className="form-control" value={state.selectedCategory}
 							        onChange={e => dispatch({type: SELECT_CATEGORY, category: e.currentTarget.value})}>

@@ -20,22 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ab64e62-9e50-4b7a-ba4b-0ea450b164f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/Components/OKRTree/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/Components/OKRTree/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/containers/OKRsHierarchy/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/containers/OKRsHierarchy/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/containers/OKRsHierarchy/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/containers/OKRsHierarchy/initialState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/containers/OKRsHierarchy/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/themeContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/utils/flattenOKRs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-boilerplate/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-boilerplate/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/react-boilerplate/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-boilerplate/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react-boilerplate/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ally-OKRs/src/containers/OKRsHierarchy/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ally-OKRs/src/containers/OKRsHierarchy/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ally-OKRs/src/containers/OKRsHierarchy/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Ally-OKRs/src/containers/OKRsHierarchy/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +66,7 @@
       <updated>1605264071487</updated>
       <workItem from="1605264072745" duration="4858000" />
       <workItem from="1605590863178" duration="1919000" />
-      <workItem from="1605697200616" duration="8257000" />
+      <workItem from="1605697200616" duration="9196000" />
     </task>
     <servers />
   </component>
