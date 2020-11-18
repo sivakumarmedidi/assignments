@@ -20,7 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ab64e62-9e50-4b7a-ba4b-0ea450b164f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/Components/OKRTree/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/Components/OKRTree/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/containers/OKRsHierarchy/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/containers/OKRsHierarchy/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/containers/OKRsHierarchy/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/containers/OKRsHierarchy/initialState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/containers/OKRsHierarchy/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/themeContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-boilerplate/src/utils/flattenOKRs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-boilerplate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-boilerplate/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-boilerplate/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-boilerplate/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-boilerplate/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/react-boilerplate/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-boilerplate/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-boilerplate/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-boilerplate/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-boilerplate/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react-boilerplate/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +54,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/proj" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -55,7 +77,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605264071487</updated>
-      <workItem from="1605264072745" duration="1205000" />
+      <workItem from="1605264072745" duration="4858000" />
+      <workItem from="1605590863178" duration="1919000" />
+      <workItem from="1605697200616" duration="8257000" />
     </task>
     <servers />
   </component>
@@ -72,5 +96,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

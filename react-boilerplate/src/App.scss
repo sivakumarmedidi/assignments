@@ -1,16 +1,6 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
 $default-background: #FAFAFA;
 
 body {
 	height: 100%;
 	background-color: $default-background;
-}
-
-.container {
-	align-items: center;
-	display: flex;
-	justify-content: center;
-	padding-top: 10px;
-	width: 100%;
 }

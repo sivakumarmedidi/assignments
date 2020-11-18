@@ -1,11 +1,9 @@
 import React from "react";
 import "./App.scss";
+import OKRHierarchy from "./containers/OKRsHierarchy";
 
-const App = () => (
-	<div className="container">
-		<h1>Hello World, React!</h1>
-		<button className="btn btn-primary">Click</button>
-	</div>
-)
+const App = () => <div>
+	<OKRHierarchy />
+</div>;
 
 export default App;

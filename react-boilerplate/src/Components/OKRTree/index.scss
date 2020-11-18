@@ -1,0 +1,12 @@
+.parent {
+  padding: 5px 0px 5px 25px;
+  .caret {
+    padding: 5px 10px 5px 0px;
+  }
+  .child-container {
+    border-left: 1px solid #000;
+    .child {
+      padding: 5px 0px 5px 25px;
+    }
+  }
+}
