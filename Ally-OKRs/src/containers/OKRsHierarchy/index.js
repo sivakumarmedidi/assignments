@@ -40,7 +40,7 @@ const OKRHierarchy = () => {
 						</div>
 						{
 							Object.values(state.flattenedOKRs)
-								.filter(okr => okr.data && okr.children && okr.children.length)
+								.filter(okr => okr.isParent)
 								.map(okr => <OKRTree
 									key={okr.data.id}
 									parentId={okr.data.id}

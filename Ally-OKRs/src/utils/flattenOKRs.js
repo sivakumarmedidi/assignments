@@ -22,6 +22,8 @@ const flattenOKRs = okrArray => {
 					children: [okr.id]
 				};
 			}
+		} else {
+			flattenedData[okr.id].isParent = true;
 		}
 	});
 

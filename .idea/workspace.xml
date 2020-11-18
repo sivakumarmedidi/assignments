@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ab64e62-9e50-4b7a-ba4b-0ea450b164f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ally-OKRs/src/containers/OKRsHierarchy/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ally-OKRs/src/containers/OKRsHierarchy/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ally-OKRs/src/utils/flattenOKRs.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ally-OKRs/src/utils/flattenOKRs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,7 @@
       <updated>1605264071487</updated>
       <workItem from="1605264072745" duration="4858000" />
       <workItem from="1605590863178" duration="1919000" />
-      <workItem from="1605697200616" duration="9415000" />
+      <workItem from="1605697200616" duration="10911000" />
     </task>
     <servers />
   </component>
@@ -82,5 +84,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="167" key="RollbackChangesDialog" timestamp="1605715775269">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="634" y="167" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605715775269" />
   </component>
 </project>
